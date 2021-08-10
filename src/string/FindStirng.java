@@ -2,7 +2,7 @@ package string;
 
 import java.util.*;
 
-public class Main {
+public class FindStirng {
 	public int solution(String str, char c) {
 		int answer = 0;
 
@@ -19,7 +19,7 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		Main T = new Main();
+		FindStirng T = new FindStirng();
 		Scanner sc = new Scanner(System.in);
 
 		String str = sc.next();
