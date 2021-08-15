@@ -16,6 +16,7 @@
 |**[String] 중복 문자 제거** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/RemoveDuplicateLetters.java)<br></center> |*Level 1* |
 |**[String] 회문 문자열** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/Palindrome.java)<br></center> |*Level 1* |
 |**[String] 유효한 팰린드롬** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/Palindrome2.java)<br></center> |*Level 1* |
+|**[String] 숫자만 추출** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/ExtractOnlyNumbers.java)<br></center> |*Level 1* |
 ||||
 |**[Array]**|||
 ||||
