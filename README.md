@@ -18,6 +18,7 @@
 |**[String] 유효한 팰린드롬** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/Palindrome2.java)<br></center> |*Level 1* |
 |**[String] 숫자만 추출** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/ExtractOnlyNumbers.java)<br></center> |*Level 1* |
 |**[String] 문자열 압축** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/StringCompression.java)<br></center> |*Level 1* |
+|**[String] 가장 짧은 문자 거리** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/ShortestLetterDistance.java)<br></center> |*Level 1* |
 ||||
 |**[Array]**|||
 ||||
