@@ -22,6 +22,7 @@
 |**[String] 암호** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/Decoder.java)<br></center> |*Level 1* |
 ||||
 |**[Array] 큰 수 출력하기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/LargeNumberOutput.java)<br></center> |*Level 1* |
+|**[Array] 보이는 학생** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Student.java)<br></center> |*Level 1* |
 ||||
 |**[Tow Pointers, Sliding window]**|||
 ||||
