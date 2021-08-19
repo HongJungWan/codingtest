@@ -8,7 +8,6 @@
 
 |  <center>문제</center> |  <center>링크</center> |  <center>난이도</center> |
 |:--------|:--------:|--------:|
-|**[String]**|||
 |**[String] 문자 찾기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/FindStirng.java)</center> |*Level 1* |
 |**[String] 대소문자 변환** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/CaseConversion.java)</center> |*Level 1* |
 |**[String] 문장 속 단어** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/FindLongWords.java)</center> |*Level 1* |
@@ -22,7 +21,6 @@
 |**[String] 가장 짧은 문자 거리** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/ShortestLetterDistance.java)<br></center> |*Level 1* |
 |**[String] 암호** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/string/Decoder.java)<br></center> |*Level 1* |
 ||||
-|**[Array]**|||
 |**[Array] 큰 수 출력하기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/LargeNumberOutput.java)<br></center> |*Level 1* |
 ||||
 |**[Tow Pointers, Sliding window]**|||
