@@ -24,6 +24,7 @@
 |**[Array] 큰 수 출력하기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/LargeNumberOutput.java)<br></center> |*Level 1* |
 |**[Array] 보이는 학생** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Student.java)<br></center> |*Level 1* |
 |**[Array] 가위바위보** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/RockPaperScissors.java)<br></center> |*Level 1* |
+|**[Array] 피보나치** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Fibonacci.java)<br></center> |*Level 1* |
 ||||
 |**[Tow Pointers, Sliding window]**|||
 ||||
