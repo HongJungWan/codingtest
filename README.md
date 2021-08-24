@@ -26,6 +26,7 @@
 |**[Array] 가위바위보** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/RockPaperScissors.java)<br></center> |*Level 1* |
 |**[Array] 피보나치** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Fibonacci.java)<br></center> |*Level 1* |
 |**[Array] 소수(에라토스테네스의 체)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Decimal.java)<br></center> |*Level 1* |
+|**[Array] 정수 소수 뒤집기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/InvertedDecimal.java)<br></center> |*Level 1* |
 ||||
 |**[Tow Pointers, Sliding window]**|||
 ||||
