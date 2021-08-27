@@ -29,6 +29,7 @@
 |**[Array] 정수 소수 뒤집기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/InvertedDecimal.java)<br></center> |*Level 1* |
 |**[Array] 점수 계산** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Score.java)<br></center> |*Level 1* |
 |**[Array] 격자판 최대합** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/TwoDArrayMaximumSum.java)<br></center> |*Level 1* |
+|**[Array] 봉우리** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Peak.java)<br></center> |*Level 1* |
 ||||
 |**[Tow Pointers, Sliding window]**|||
 ||||
