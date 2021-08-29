@@ -31,6 +31,7 @@
 |**[Array] 격자판 최대합** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/TwoDArrayMaximumSum.java)<br></center> |*Level 1* |
 |**[Array] 봉우리** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Peak.java)<br></center> |*Level 1* |
 |**[Array] 임시반장 선거** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Election.java)<br></center> |*Level 1* |
+|**[Array] 멘토링** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/array/Mentoring.java)<br></center> |*Level 1* |
 ||||
 |**[Tow Pointers, Sliding window]**|||
 ||||
