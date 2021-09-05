@@ -38,6 +38,7 @@
 |**[Tow Pointers, Sliding window] 공통 원소 구하기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/slidingwindow/Intersection.java)<br></center> |*Level 1* |
 |**[Tow Pointers, Sliding window] 최고 매출** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/slidingwindow/MaximumSales.java)<br></center> |*Level 1* |
 |**[Tow Pointers, Sliding window] 연속 부분 수열** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/slidingwindow/ConsecutiveNumberSubSequence.java)<br></center> |*Level 1* |
+|**[Tow Pointers, Sliding window] 연속된 자연수의 합** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/slidingwindow/SumConsecutiveNaturalNumbers.java)<br></center> |*Level 1* |
 ||||
 |**[HashMap, TreeSet]**|||
 |**[HashMap, TreeSet] 회장 선거** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/VicePresident.java)<br></center> |*Level 1* |
