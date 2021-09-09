@@ -46,6 +46,8 @@
 |**[HashMap, TreeSet] 회장 선거** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/VicePresident.java)<br></center> |*Level 1* |
 |**[HashMap, TreeSet] 아나그램** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/Anagram.java)<br></center> |*Level 1* |
 ||||
+|**[HashMap, TreeSet] 모든 아나그램 찾기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/Anagram.java)<br></center> |*Level 1.5* |
+||||
 |**[Stack, Queue]**|||
 ||||
 |**[Sorting and Searching]**|||
