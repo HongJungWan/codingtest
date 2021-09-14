@@ -43,10 +43,12 @@
 |**[Tow Pointers, Sliding window] 최대 길이 연속부분 수열** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/slidingwindow/MaxConsecutiveNumberSubSequence.java)<br></center> |*Level 1* |
 ||||
 |**[HashMap, TreeSet]**|||
-|**[HashMap, TreeSet] 회장 선거** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/VicePresident.java)<br></center> |*Level 1* |
-|**[HashMap, TreeSet] 아나그램** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/Anagram.java)<br></center> |*Level 1* |
+|**[HashMap, TreeSet] 회장 선거(HashMap)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/VicePresident.java)<br></center> |*Level 1* |
+|**[HashMap, TreeSet] 아나그램(HashMap)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/Anagram.java)<br></center> |*Level 1* |
 ||||
-|**[HashMap, TreeSet] 모든 아나그램 찾기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/Anagram.java)<br></center> |*Level 1.5* |
+|**[HashMap, TreeSet] 매출액의 종류(Hash, sliding window)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/SalesType.java)<br></center> |*Level 1* |
+||||
+|**[HashMap, TreeSet] 모든 아나그램 찾기(Hash, sliding window : 시간복잡도 O(n))** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/Anagram.java)<br></center> |*Level 1.5* |
 ||||
 |**[Stack, Queue]**|||
 ||||
