@@ -50,6 +50,7 @@
 |**[HashMap, TreeSet] K번째 큰 수 찾기(TreeSet)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/hash/KthLargestNumber.java)<br></center> |*Level 1* |
 ||||
 |**[Stack, Queue]**|||
+|**[Stack, Queue] 올바른 괄호(Stack)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/stackqueue/Parenthesis.java)<br></center> |*Level 1* |
 ||||
 |**[Sorting and Searching]**|||
 ||||
