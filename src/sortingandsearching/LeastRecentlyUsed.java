@@ -1,4 +1,4 @@
-package stackqueue;
+package sortingandsearching;
 
 import java.util.Scanner;
 
