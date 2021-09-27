@@ -54,6 +54,7 @@
 |**[Stack, Queue] 괄호 문자 제거(Stack)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/stackqueue/RemoveParentheses.java)<br></center> |*Level 1* |
 |**[Stack, Queue] 후위 표기법 계산(Stack)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/stackqueue/Postfix.java)<br></center> |*Level 1* |
 |**[Stack, Queue] 쇠막대기(Stack)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/stackqueue/IronStick.java)<br></center> |*Level 1* |
+|**[Stack, Queue] 카카오 인형뽑기(Stack)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/stackqueue/ClawCrane.java)<br></center> |*Level 1* |
 ||||
 |**[Sorting and Searching]**|||
 |**[Sorting and Searching] 선택정렬(Sorting)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/SelectionSort.java)<br></center> |*Level 1* |
