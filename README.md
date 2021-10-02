@@ -65,6 +65,7 @@
 |**[Recursive, Tree, Graph]**|||
 |**[DFS,BFS 기초] 재귀 함수(DFS)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/RecursionFunction.java)<br></center> |*Level 1* |
 |**[DFS,BFS 기초] 2진수 출력(DFS)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/BinaryPrint.java)<br></center> |*Level 1* |
+|**[DFS,BFS 기초] 팩토리얼(DFS)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/Factorial.java)<br></center> |*Level 1* |
 ||||
 |**[Greedy Algorithm]**|||
 ||||
