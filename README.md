@@ -69,6 +69,7 @@
 |**[DFS,BFS 기초] 피보나치(DFS)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/Fibo.java)<br></center> |*Level 1* |
 |**[DFS,BFS 기초] 이진트리순회(DFS)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/BinaryTree.java)<br></center> |*Level 1* |
 |**[DFS,BFS 기초] 부분집합 구하기(DFS)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/Subset.java)<br></center> |*Level 1* |
+|**[DFS,BFS 기초] 말단노드까지의 가장 짧은 경로(DFS) 한번 더 보기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/TerminalNodeShortestPath.java)<br></center> |*Level 1* |
 ||||
 |**[Greedy Algorithm]**|||
 ||||
