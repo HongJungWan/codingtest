@@ -60,7 +60,8 @@
 |**[Sorting and Searching] 선택정렬(Sorting)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/SelectionSort.java)<br></center> |*Level 1* |
 |**[Sorting and Searching] 버블정렬(Sorting)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/BubbleSort.java)<br></center> |*Level 1* |
 |**[Sorting and Searching] 삽입정렬(Sorting)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/InsertionSort.java)<br></center> |*Level 1* |
-|**[Sorting and Searching] LRU(Sorting)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/LeastRecentlyUsed.java)<br></center> |*Level 1* |
+|**[Sorting and Searching] LRU(Sorting)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/LRU.java)<br></center> |*Level 1* |
+|**[Sorting and Searching] 중복확인(Sorting)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/DuplicateCheck.java)<br></center> |*Level 1* |
 ||||
 |**[Recursive, Tree, Graph]**|||
 |**[DFS,BFS 기초] 재귀 함수(DFS)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/RecursionFunction.java)<br></center> |*Level 1* |
