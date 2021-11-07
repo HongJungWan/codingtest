@@ -64,6 +64,7 @@
 |**[Sorting and Searching] 중복확인(Sorting)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/DuplicateCheck.java)<br></center> |*Level 1* |
 |**[Sorting and Searching] 장난꾸러기(Sorting)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/Mischief.java)<br></center> |*Level 1* |
 |**[Sorting and Searching] 좌표 정렬** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/CoordinateSort.java)<br></center> |*Level 1* |
+|**[Sorting and Searching] 이분 검색** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/sortingandsearching/BinarySearch.java)<br></center> |*Level 1* |
 ||||
 |**[Recursive, Tree, Graph]**|||
 |**[DFS,BFS 기초] 재귀 함수(DFS)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/RecursionFunction.java)<br></center> |*Level 1* |
