@@ -75,6 +75,7 @@
 |**[DFS,BFS 기초] 부분집합 구하기(DFS)** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/Subset.java)<br></center> |*Level 1* |
 |**[DFS,BFS 기초] 말단노드까지의 가장 짧은 경로(DFS) 한번 더 보기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/TerminalNodeShortestPath.java)<br></center> |*Level 1* |
 |**[DFS,BFS 기초] 경로 탐색(DFS) 한번 더 보기** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/PathSearch.java)<br></center> |*Level 1* |
+|**[DFS,BFS 기초] 경로 탐색(DFS_ArrayList) ** | <center> [Code Link](https://github.com/HongJungWan/codingtest/blob/master/src/dfsbfs/PathSearch_ArrayList.java)<br></center> |*Level 1* |
 ||||
 |**[Greedy Algorithm]**|||
 ||||
